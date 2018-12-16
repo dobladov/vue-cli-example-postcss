@@ -3,6 +3,6 @@
 ```
 git clone https://github.com/dobladov/vue-cli-example-postcss.git
 cd vue-cli-example-postcss
-npm run start
-
+npm install
+npm run serve
 ```
